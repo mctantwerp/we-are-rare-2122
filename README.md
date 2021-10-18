@@ -15,5 +15,5 @@ See: [Contributing](./CONTRIBUTING.md)
 ## Students
 
 - ?
-
+-[Bente Geerts](./people/Bente_Geerts.md)
   ...
