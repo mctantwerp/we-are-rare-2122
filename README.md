@@ -15,5 +15,6 @@ See: [Contributing](./CONTRIBUTING.md)
 ## Students
 
 - [Tibo Claes](./people/Tibo_Claes.md)
+- [Yahno De Wit](./people/yahno_dewit.md)
 
   ...
