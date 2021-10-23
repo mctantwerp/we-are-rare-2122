@@ -16,4 +16,6 @@ See: [Contributing](./CONTRIBUTING.md)
 
 - [Tibo Claes](./people/Tibo_Claes.md)
 
+- [Pieter Van Valckenborgh](./people/pieter_vanvalckenborgh.md)
+
   ...
