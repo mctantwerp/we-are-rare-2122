@@ -18,5 +18,6 @@ See: [Contributing](./CONTRIBUTING.md)
 - [Yahno De Wit](./people/yahno_dewit.md)
 
 - [Pieter Van Valckenborgh](./people/pieter_vanvalckenborgh.md)
+- [Zainab El Yacoubi](./people/zainab_elyacoubi.md)
 
   ...
