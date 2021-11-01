@@ -20,5 +20,4 @@ See: [Contributing](./CONTRIBUTING.md)
 - [Pieter Van Valckenborgh](./people/pieter_vanvalckenborgh.md)
 - [Zainab El Yacoubi](./people/zainab_elyacoubi.md)
 - [Milolo Mutanga](./people/milolo_mutanga.md)
-- [Owin Pellegroms](./people/Owin_Pellegroms.md
-...)
+- [Owin Pellegroms](./people/Owin_Pellegroms.md)
