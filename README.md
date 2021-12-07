@@ -24,3 +24,5 @@ See: [Contributing](./CONTRIBUTING.md)
 - [Arno Peeters](./people/Arno_Peeters.md)
 - [Gilles Pauwels](./people/Gilles_Pauwels.md)
 - [Matthias De Beule](./people/Matthias_DeBeule.md)
+- [Matthias Kestens](./people/Matthias_Kestens.md)
+- 
